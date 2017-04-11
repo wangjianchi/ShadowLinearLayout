@@ -5,7 +5,7 @@
 
 ## 属性  
 
-shadowColor : 阴影颜色  
+shadowColor : 阴影颜色    
 bgColr:背景颜色  
 shadowRadius:阴影半径  
 offset_x:阴影x轴偏移量  
