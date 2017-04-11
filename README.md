@@ -1,6 +1,6 @@
 # ShadowLinearLayout
 一个带阴影的类似CardView的控件
-![iamge](https://github.com/wangjianchi/ShadowLinearLayout/blob/master/shortcut/shortcut.png)
+![iamge](https://github.com/wangjianchi/ShadowLinearLayout/blob/master/shortcut/shortcut01.png)
 ###属性
     shadowColor; //阴影颜色
     bgColor; //背景颜色
